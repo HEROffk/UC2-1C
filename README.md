@@ -19,14 +19,13 @@ Atividade 1: Trello: análise SWOT
 - João Roberto
 
 Atividade 2: Trello: Projeto pessoal
--([link]([https://trello.com/b/prGwfX4m/an%C3%A1lise-swot-netflix](https://trello.com/b/usEBYef7/projeto-pessoal-evoluir-no-v%C3%B4lei-e-entrar-na-base-de-um-time)))
-- Letícia Brasil
+-([link](https://trello.com/b/usEBYef7/projeto-pessoal-evoluir-no-v%C3%B4lei-e-entrar-na-base-de-um-time)
 
 Atividade 3: Trello: Agenda
 -([link](https://trello.com/b/pZYoYKXv/trabalho-de-teresa))
 - Letícia Brasil
 - Matheus De Carvalho
-- Luiz Miguel
+- Luiz  Miguel
 - Alice Ayune
 - julia vitoria
 
