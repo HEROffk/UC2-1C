@@ -30,4 +30,7 @@ Atividade 3: Trello: Agenda
 - julia vitoria
 
 Atividade 4: Meu emprego dos sonhos
--[link](https://docs.google.com/document/d/1SHAZ2YkL8mQO8dMUdXaOkO3vkz20ndzopPgmxee9iok/edit?usp=sharing)
+-([link](https://docs.google.com/document/d/1SHAZ2YkL8mQO8dMUdXaOkO3vkz20ndzopPgmxee9iok/edit?usp=sharing))
+
+Atividade 5: Gráfico de Gantt
+-([link](https://docs.google.com/spreadsheets/d/1dUvrkhQD6cONnyTdXzQODagOhazG5oONPs2GWkw_71g/edit?usp=sharing))
